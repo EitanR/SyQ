@@ -1,4 +1,4 @@
---  SyQ.lua ???
+--   SyQ.lua ???
 --   by E. Rosa
 --[[
   Copyright (c) 2013 Hector (Eitan) Rosa
